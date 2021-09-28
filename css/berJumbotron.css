@@ -1,0 +1,43 @@
+
+
+.alineadoJumbotron{
+    text-align: right;
+    
+} 
+
+.alineadOradores{
+    text-align: center;
+} 
+
+.alineadoForm{
+    align-content: center;
+}
+
+
+.alineadoPie{
+    text-align: center;
+}
+
+.barraNavegacion{
+    margin: 1px;
+
+}
+
+.alineadoBarra{
+float: center;
+/* text-align: right; */
+}
+
+.barra{   /* barra alinea el texto que esta dentro de la etiqueta */
+    text-align: right;
+}
+
+.logo{
+    /* padding: 3px 5px 3px 3px;
+    margin: 1px 59px 1px 1px; */
+    width: 10%;
+}
+
+/* .elementosOtraBarra{
+    text-align:center;
+} */
